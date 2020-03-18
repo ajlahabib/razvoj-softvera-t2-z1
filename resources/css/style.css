@@ -1,0 +1,17 @@
+Button{
+-fx-background-color: red;
+-fx-text-fill: white;
+}
+#helloworld{
+-fx-text-fill: black;
+}
+.black{
+-fx-text-fill:black;
+}
+.root{
+-fx-background-color: coral;
+}
+.label{
+-fx-font-size: 25px;
+
+}
